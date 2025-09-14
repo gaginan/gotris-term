@@ -50,7 +50,7 @@ var stateColors = map[gotris.State]Color{
 // CellWithState returns a colored cell string for the given game state.
 func CellWithState(s gotris.State) string {
 	if color, ok := stateColors[s]; ok {
-		return color.Sprintf(ColorCell, color)
+		return color.Sprintf(DefaultCell)
 	}
 	return DefaultCell
 }
