@@ -1,0 +1,6 @@
+github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203 h1:XBBHcIb256gUJtLmY22n99HaZTz+r2Z51xUPi01m3wg=
+github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203/go.mod h1:E1jcSv8FaEny+OP/5k9UxZVw9YFWGj7eI4KR/iOBqCg=
+github.com/gaginan/gotris v0.0.0-20250914084321-ea205f092a7f h1:Zy0LFABBGjUAa8ShaO94rU4gVMI7VQkWh7a0HDRsCfY=
+github.com/gaginan/gotris v0.0.0-20250914084321-ea205f092a7f/go.mod h1:SdZg9WadzHh28IalHBOxI3k8fAPHV27EHoKlK2A5/Zg=
+golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a h1:dGzPydgVsqGcTRVwiLJ1jVbufYwmzD3LfVPLKsKg+0k=
+golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
