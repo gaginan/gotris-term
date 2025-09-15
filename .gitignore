@@ -33,3 +33,6 @@ go.work.sum
 
 # copilot
 */copilot-instructions.md
+# macOS
+*/.DS_Store
+.DS_Store
